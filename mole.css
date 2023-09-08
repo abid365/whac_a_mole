@@ -1,14 +1,14 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  background: url("/Assets/mario-bg.jpg");
+  background: url("Assets/mario-bg.jpg");
   background-size: cover;
 }
 
 #board {
   width: 540px;
   height: 540px;
-  background: url("./Assets/soil.png");
+  background: url("Assets/soil.png");
   background-size: cover;
   border: 3px solid white;
   border-radius: 25px;
@@ -20,7 +20,7 @@ body {
 #board div {
   height: 180px;
   width: 180px;
-  background-image: url("/Assets/pipe.png");
+  background-image: url("Assets/pipe.png");
   background-size: cover;
 }
 
